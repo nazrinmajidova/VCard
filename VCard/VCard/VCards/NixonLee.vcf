@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Nixon Lee
+EMAIL         :nixon.lee@example.com
+TEL           :(271)-256-3356
+ADR;TYPE=HOME :;;;;
+END:VCARD

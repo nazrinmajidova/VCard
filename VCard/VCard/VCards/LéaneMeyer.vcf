@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Léane Meyer
+EMAIL         :leane.meyer@example.com
+TEL           :01-46-19-59-98
+ADR;TYPE=HOME :;;;;
+END:VCARD

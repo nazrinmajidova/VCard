@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Frivold;Astri;;;
+FN            :Astri Frivold
+EMAIL         :astri.frivold@example.com
+TEL           :31123204
+ADR;TYPE=HOME :;;;;
+END:VCARD

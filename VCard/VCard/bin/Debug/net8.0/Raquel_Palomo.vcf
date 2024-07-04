@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Palomo;Raquel;;;
+FN            :Raquel Palomo
+EMAIL         :raquel.palomo@example.com
+TEL           :(689) 690 5529
+ADR;TYPE=HOME :;;;;
+END:VCARD

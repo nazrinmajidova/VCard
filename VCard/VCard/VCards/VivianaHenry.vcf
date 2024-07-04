@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Viviana Henry
+EMAIL         :viviana.henry@example.com
+TEL           :076 347 68 46
+ADR;TYPE=HOME :;;;;
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Ida Bailey
+EMAIL         :ida.bailey@example.com
+TEL           :00-5384-9971
+ADR;TYPE=HOME :;;;;
+END:VCARD

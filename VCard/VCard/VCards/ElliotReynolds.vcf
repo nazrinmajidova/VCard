@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Elliot Reynolds
+EMAIL         :elliot.reynolds@example.com
+TEL           :051-214-0845
+ADR;TYPE=HOME :;;;;
+END:VCARD

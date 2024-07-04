@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Alexander Giménez
+EMAIL         :alexander.gimenez@example.com
+TEL           :926-828-001
+ADR;TYPE=HOME :;;;;
+END:VCARD

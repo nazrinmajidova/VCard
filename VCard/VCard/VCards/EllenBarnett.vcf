@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Ellen Barnett
+EMAIL         :ellen.barnett@example.com
+TEL           :(722) 547-5179
+ADR;TYPE=HOME :;;;;
+END:VCARD

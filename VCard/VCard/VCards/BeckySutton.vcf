@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Sutton;Becky;;;
+FN            :Becky Sutton
+EMAIL         :becky.sutton@example.com
+TEL           :051-467-6634
+ADR;TYPE=HOME :;;;;
+END:VCARD

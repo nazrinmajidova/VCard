@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :یاسمین نجاتی
+EMAIL         :ysmyn.njty@example.com
+TEL           :022-97335180
+ADR;TYPE=HOME :;;;;
+END:VCARD

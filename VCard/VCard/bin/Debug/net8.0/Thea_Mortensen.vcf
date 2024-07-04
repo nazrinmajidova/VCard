@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Mortensen;Thea;;;
+FN            :Thea Mortensen
+EMAIL         :thea.mortensen@example.com
+TEL           :10897340
+ADR;TYPE=HOME :;;;;
+END:VCARD

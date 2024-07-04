@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Olga Torres
+EMAIL         :olga.torres@example.com
+TEL           :(665) 722 9225
+ADR;TYPE=HOME :;;;;
+END:VCARD

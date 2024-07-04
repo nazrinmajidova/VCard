@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Domaha Shtokalo
+EMAIL         :domaha.shtokalo@example.com
+TEL           :(067) Q28-7170
+ADR;TYPE=HOME :;;;;
+END:VCARD

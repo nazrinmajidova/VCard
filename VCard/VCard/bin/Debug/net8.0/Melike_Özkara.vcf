@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Özkara;Melike;;;
+FN            :Melike Özkara
+EMAIL         :melike.ozkara@example.com
+TEL           :(921)-325-6957
+ADR;TYPE=HOME :;;;;
+END:VCARD

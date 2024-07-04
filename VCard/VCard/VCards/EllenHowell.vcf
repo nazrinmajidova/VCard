@@ -1,0 +1,8 @@
+BEGIN         :VCARD
+VERSION       :3.0
+N             :Howell;Ellen;;;
+FN            :Ellen Howell
+EMAIL         :ellen.howell@example.com
+TEL           :071-431-9946
+ADR;TYPE=HOME :;;;;
+END:VCARD

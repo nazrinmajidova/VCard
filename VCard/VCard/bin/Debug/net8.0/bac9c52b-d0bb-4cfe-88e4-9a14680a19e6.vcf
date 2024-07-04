@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Frederick Diaz
+EMAIL:frederick.diaz@example.com
+TEL:(384) 702-3697
+ADR;TYPE=HOME:Miramar;United States
+END:VCARD

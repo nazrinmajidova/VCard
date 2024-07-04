@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Lia Lygre
+EMAIL         :lia.lygre@example.com
+TEL           :57237665
+ADR;TYPE=HOME :;;;;
+END:VCARD

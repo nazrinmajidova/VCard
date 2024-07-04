@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Heiderose Steinhauser
+EMAIL         :heiderose.steinhauser@example.com
+TEL           :0787-3385985
+ADR;TYPE=HOME :;;;;
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Alma Møller
+EMAIL         :alma.moller@example.com
+TEL           :76076980
+ADR;TYPE=HOME :;;;;
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Zoe Liu
+EMAIL         :zoe.liu@example.com
+TEL           :B62 J65-4229
+ADR;TYPE=HOME :;;;;
+END:VCARD

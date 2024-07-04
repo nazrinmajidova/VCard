@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VCard/1.0.0": {
+        "dependencies": {
+          "Community.System.Net.Http.Json": "1.0.0"
+        },
+        "runtime": {
+          "VCard.dll": {}
+        }
+      },
+      "Community.System.Net.Http.Json/1.0.0": {
+        "runtime": {
+          "lib/net8.0/Community.System.Net.Http.Json.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VCard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Community.System.Net.Http.Json/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W+z8qphs3IVnDbCyYuyUgroHOcWeke87X0CkfZAk8ukHzq23CrEPbiDDGZY6CQ7R7353pz5sRiUQKedYBIqrCA==",
+      "path": "community.system.net.http.json/1.0.0",
+      "hashPath": "community.system.net.http.json.1.0.0.nupkg.sha512"
+    }
+  }
+}

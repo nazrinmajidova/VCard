@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Patsy Ward
+EMAIL         :patsy.ward@example.com
+TEL           :02-4240-2521
+ADR;TYPE=HOME :;;;;
+END:VCARD

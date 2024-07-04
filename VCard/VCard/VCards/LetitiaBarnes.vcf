@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Letitia Barnes
+EMAIL         :letitia.barnes@example.com
+TEL           :(822) 453-2512
+ADR;TYPE=HOME :;;;;
+END:VCARD

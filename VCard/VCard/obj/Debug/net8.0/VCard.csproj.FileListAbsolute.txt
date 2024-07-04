@@ -1,0 +1,17 @@
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\VCard.exe
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\VCard.deps.json
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\VCard.runtimeconfig.json
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\VCard.dll
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\VCard.pdb
+D:\Back-End\VCard\VCard\bin\Debug\net8.0\Community.System.Net.Http.Json.dll
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.csproj.AssemblyReference.cache
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.AssemblyInfoInputs.cache
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.AssemblyInfo.cs
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.csproj.CoreCompileInputs.cache
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.csproj.Up2Date
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.dll
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\refint\VCard.dll
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.pdb
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\VCard.genruntimeconfig.cache
+D:\Back-End\VCard\VCard\obj\Debug\net8.0\ref\VCard.dll

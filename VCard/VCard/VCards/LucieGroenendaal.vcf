@@ -1,0 +1,7 @@
+BEGIN         :VCARD
+VERSION       :3.0
+FN            :Lucie Groenendaal
+EMAIL         :lucie.groenendaal@example.com
+TEL           :(081) 0315748
+ADR;TYPE=HOME :;;;;
+END:VCARD

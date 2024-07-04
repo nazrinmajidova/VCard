@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mille Larsen
+EMAIL:mille.larsen@example.com
+TEL:59585716
+ADR;TYPE=HOME:København V;Denmark
+END:VCARD
