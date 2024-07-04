@@ -84,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Back-End\\VCard\\VCard\\VCardProject.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\VCard\\VCard\\VCard\\VCard\\VCardProject.csproj",
       "projectName": "VCardProject",
-      "projectPath": "D:\\Back-End\\VCard\\VCard\\VCardProject.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\VCard\\VCard\\VCard\\VCard\\VCardProject.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Back-End\\VCard\\VCard\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\VCard\\VCard\\VCard\\VCard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
